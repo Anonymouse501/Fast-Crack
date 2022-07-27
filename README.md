@@ -28,7 +28,7 @@ pip install bs4
 git clone https://github.com/Pazrysablenk/Fast-Crack
 cd Fast-Crack
 git pull
-python bot-FB.py
+python FMBF-Fast.py
 ```
 
 
